@@ -1,0 +1,14 @@
+
+.overviews {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.overview {
+    border: 1px solid black;
+    margin: 1rem 1rem;
+    border-radius: 9px;
+    box-shadow: 5px 5px 5px #00000052;
+}
